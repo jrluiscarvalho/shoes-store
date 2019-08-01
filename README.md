@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To run the API:
+
+### `npx json-server server.json -p 3333`
+
 In the project directory, you can run:
 
 ### `npm start`
